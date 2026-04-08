@@ -1,0 +1,54 @@
+# FastAPI and Web Server
+fastapi>=0.104.1
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# Database
+sqlalchemy>=2.0.23
+psycopg2-binary>=2.9.9
+supabase>=2.10.0  # Supports new sb_secret_ / sb_publishable_ key format
+
+# Machine Learning - Core
+scikit-learn>=1.3.2
+numpy>=1.24.3
+pandas>=2.1.3
+shap>=0.43.0  # For model explainability
+joblib>=1.3.2  # For model serialization
+
+# Advanced ML Models
+xgboost>=2.0.3  # Extreme Gradient Boosting - most powerful
+lightgbm>=4.1.0  # Light Gradient Boosting - fast and accurate
+catboost>=1.2.2  # Categorical Boosting - handles categorical features
+
+# Deep Learning (optional - heavy, skip if not needed)
+# tensorflow==2.15.0  # Not compatible with Python 3.14 yet
+# keras==2.15.0       # Requires tensorflow
+
+# Hyperparameter Optimization
+optuna>=3.5.0  # Automated hyperparameter optimization
+
+# Time Series & Anomaly Detection
+statsmodels>=0.14.1  # Time series analysis
+scipy>=1.11.4  # Statistical functions
+# Isolation Forest is included in scikit-learn
+
+# Data Processing
+python-dateutil>=2.8.2
+
+# Scheduled Tasks
+apscheduler>=3.10.4
+
+# HTTP Client
+httpx>=0.24.0  # HTTP client for async requests
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Logging
+python-json-logger>=2.0.7
+
+# Utilities
+python-multipart>=0.0.6
+openpyxl>=3.1.2  # For Excel file support
+chardet>=5.2.0   # For encoding detection

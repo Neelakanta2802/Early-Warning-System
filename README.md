@@ -1,4 +1,9 @@
 🎓 Early Warning System for At-Risk Students
+## 🚀 Live Demo  
+https://early-warning-system-five.vercel.app/ 
+
+## ⚠️ Note
+This project is deployed in demo mode using mock data for UI demonstration. Backend integration is in progress.
 
 📌 Overview
 

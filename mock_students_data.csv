@@ -1,0 +1,31 @@
+roll_number,full_name,email,department,program,year_level,semester,course_code,course_name,grade,credits,gpa,attendance_date,attendance_status
+STU001,John Smith,john.smith@university.edu,Computer Science,Undergraduate,2,Fall 2024,CS201,Data Structures,3.2,3,3.2,2024-09-15,present
+STU002,Emily Johnson,emily.johnson@university.edu,Computer Science,Undergraduate,3,Fall 2024,CS301,Database Systems,3.8,3,3.8,2024-09-15,present
+STU003,Michael Brown,michael.brown@university.edu,Mathematics,Undergraduate,1,Fall 2024,MATH101,Calculus I,2.1,4,2.1,2024-09-15,absent
+STU004,Sarah Davis,sarah.davis@university.edu,Engineering,Undergraduate,4,Fall 2024,ENG401,Advanced Engineering,3.6,3,3.6,2024-09-15,present
+STU005,David Wilson,david.wilson@university.edu,Business,Undergraduate,2,Fall 2024,BUS201,Accounting Principles,2.9,3,2.9,2024-09-15,late
+STU006,Jessica Martinez,jessica.martinez@university.edu,Psychology,Undergraduate,3,Fall 2024,PSY301,Abnormal Psychology,3.7,3,3.7,2024-09-15,present
+STU007,Christopher Lee,christopher.lee@university.edu,Computer Science,Undergraduate,1,Fall 2024,CS101,Introduction to Programming,1.8,3,1.8,2024-09-15,absent
+STU008,Amanda Taylor,amanda.taylor@university.edu,Biology,Undergraduate,2,Fall 2024,BIO201,Cell Biology,3.3,4,3.3,2024-09-15,present
+STU009,James Anderson,james.anderson@university.edu,Engineering,Undergraduate,3,Fall 2024,ENG301,Mechanics,3.4,4,3.4,2024-09-15,present
+STU010,Lisa Thomas,lisa.thomas@university.edu,Business,Undergraduate,1,Fall 2024,BUS101,Introduction to Business,2.2,3,2.2,2024-09-15,absent
+STU011,Robert Jackson,robert.jackson@university.edu,Computer Science,Undergraduate,4,Fall 2024,CS401,Artificial Intelligence,3.9,3,3.9,2024-09-15,present
+STU012,Michelle White,michelle.white@university.edu,Psychology,Undergraduate,2,Fall 2024,PSY201,Developmental Psychology,3.2,3,3.2,2024-09-15,present
+STU013,Daniel Harris,daniel.harris@university.edu,Mathematics,Undergraduate,3,Fall 2024,MATH301,Linear Algebra,2.8,3,2.8,2024-09-15,late
+STU014,Jennifer Martin,jennifer.martin@university.edu,Biology,Undergraduate,1,Fall 2024,BIO101,Introduction to Biology,1.9,4,1.9,2024-09-15,absent
+STU015,William Thompson,william.thompson@university.edu,Engineering,Undergraduate,2,Fall 2024,ENG201,Statics,3.1,4,3.1,2024-09-15,present
+STU016,Patricia Garcia,patricia.garcia@university.edu,Business,Undergraduate,3,Fall 2024,BUS301,Financial Management,3.5,3,3.5,2024-09-15,present
+STU017,Richard Martinez,richard.martinez@university.edu,Computer Science,Undergraduate,1,Fall 2024,CS101,Introduction to Programming,2.3,3,2.3,2024-09-15,late
+STU018,Elizabeth Robinson,elizabeth.robinson@university.edu,Psychology,Undergraduate,4,Fall 2024,PSY401,Clinical Psychology,3.8,3,3.8,2024-09-15,present
+STU019,Joseph Clark,joseph.clark@university.edu,Mathematics,Undergraduate,2,Fall 2024,MATH201,Calculus II,2.4,4,2.4,2024-09-15,absent
+STU020,Mary Rodriguez,mary.rodriguez@university.edu,Biology,Undergraduate,3,Fall 2024,BIO301,Microbiology,3.4,4,3.4,2024-09-15,present
+STU021,Charles Lewis,charles.lewis@university.edu,Engineering,Undergraduate,1,Fall 2024,ENG101,Introduction to Engineering,1.7,3,1.7,2024-09-15,absent
+STU022,Nancy Walker,nancy.walker@university.edu,Business,Undergraduate,4,Fall 2024,BUS401,Strategic Management,3.7,3,3.7,2024-09-15,present
+STU023,Thomas Hall,thomas.hall@university.edu,Computer Science,Undergraduate,2,Fall 2024,CS201,Data Structures,2.6,3,2.6,2024-09-15,late
+STU024,Karen Allen,karen.allen@university.edu,Psychology,Undergraduate,1,Fall 2024,PSY101,Introduction to Psychology,2.1,3,2.1,2024-09-15,absent
+STU025,Steven Young,steven.young@university.edu,Mathematics,Undergraduate,3,Fall 2024,MATH301,Linear Algebra,3.3,3,3.3,2024-09-15,present
+STU026,Betty King,betty.king@university.edu,Biology,Undergraduate,2,Fall 2024,BIO201,Cell Biology,2.8,4,2.8,2024-09-15,late
+STU027,Edward Wright,edward.wright@university.edu,Engineering,Undergraduate,4,Fall 2024,ENG401,Advanced Engineering,3.5,3,3.5,2024-09-15,present
+STU028,Sandra Lopez,sandra.lopez@university.edu,Business,Undergraduate,1,Fall 2024,BUS101,Introduction to Business,1.8,3,1.8,2024-09-15,absent
+STU029,Kenneth Hill,kenneth.hill@university.edu,Computer Science,Undergraduate,3,Fall 2024,CS301,Database Systems,3.6,3,3.6,2024-09-15,present
+STU030,Donna Scott,donna.scott@university.edu,Psychology,Undergraduate,2,Fall 2024,PSY201,Developmental Psychology,2.9,3,2.9,2024-09-15,late
